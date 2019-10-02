@@ -1,0 +1,13 @@
+name = "Elfutils_jll"
+uuid = "ab5a07f8-06af-567f-a878-e8bb879eba5a"
+version = "0.177.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Bzip2_jll = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+XZ_jll = "ffd25f8a-64ca-5728-b0f7-c24cf3aae800"
+
+[compat]
+julia = "1.3"
